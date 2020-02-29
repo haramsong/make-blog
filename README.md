@@ -1,2 +1,2 @@
 # make-blog
-tutorial repository
+Hi
